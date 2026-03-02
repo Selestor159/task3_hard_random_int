@@ -1,0 +1,12 @@
+{
+  "games_played": 1,
+  "games_won": 1,
+  "total_attempts": 6,
+  "best_score": 6,
+  "last_game": {
+    "date": "2026-02-24T20:55:58.311809",
+    "won": true,
+    "attempts": 6,
+    "number": 92
+  }
+}
